@@ -1,1 +1,1 @@
-# alarm-Customtkinter
+CustomTkinter is a python desktop UI-library based on Tkinter, which provides modern looking and fully customizable widgets. With CustomTkinter you'll get a consistent look across all desktop platforms (Windows, macOS, Linux).# alarm-Customtkinter
